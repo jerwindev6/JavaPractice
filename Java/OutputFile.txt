@@ -1,0 +1,3 @@
+SUM of 8 and 8 equals 16
+SUM of 13 and 8 equals 21
+SUM of 10 and 1 equals 11
